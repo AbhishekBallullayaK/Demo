@@ -20,4 +20,8 @@ public class DemoTest {
 	public void demoTest3() {
 		System.out.println("This is demo test3");
 	}
+	
+	public void demoTest4() {
+		System.out.println("This is demo test4");
+	}
 }
