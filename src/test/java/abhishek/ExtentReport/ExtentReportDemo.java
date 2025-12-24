@@ -47,4 +47,9 @@ public class ExtentReportDemo {
 		driver.close();
 		extent.flush();
 	}
+	
+	public void start() {
+		System.out.println("Started");
+		System.out.println("Modified");
+	}
 }
